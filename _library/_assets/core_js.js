@@ -1,0 +1,4 @@
+
+	/*
+		Example Core JS File
+	*/
